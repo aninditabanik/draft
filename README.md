@@ -5,7 +5,7 @@ To run the seed script see below:
    ```
     CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
     ```
-3. Execute Porta_seed_script
+3. Execute Portal_seed_script.sql
 4. Clean up data first 
    ```
     CALL portal_cleanup();
