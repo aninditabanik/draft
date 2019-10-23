@@ -1,4 +1,4 @@
-# draft
+
 To run the seed script see below:
 1. Open postgres terminal and connect to payments db
 2. To install the uuid-ossp module, you use the CREATE EXTENSION statement as follows
