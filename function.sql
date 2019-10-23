@@ -11,7 +11,6 @@ RETURNS void AS $$
 DECLARE
     this_payment_txn_id uuid = uuid_generate_v4();
     this_merchant_id uuid = '47b70ca4-0f6e-4c52-819f-667ae804f9d2';
-    --this_customer_id uuid = 'a39e783f-bb18-4227-8fe2-a22bee9c2859';
     this_payment_intent_id uuid = uuid_generate_v4();
     this_api_user_id uuid = 'cd86ff2e-fa0f-4bbc-92dd-0f0fde10e8cf';
     this_payment_source_token_id uuid = '98e11d34-4519-4668-b09d-85a3c6765989';
