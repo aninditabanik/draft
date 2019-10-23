@@ -1,3 +1,4 @@
+The script has been prepared based on the quip doc https://salesforce.quip.com/DoATAY0BaoWn#XcaACA9nNwz
 
 To run the seed script see below:
 1. Open postgres terminal and connect to payments db
