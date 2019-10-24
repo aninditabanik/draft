@@ -1,7 +1,7 @@
 /***************************************************************** FUNCTION create_payment****************************************************************************************************/
 
 /**
-A function for creating a payment entry based on the parametres passed. 
+A function for creating a payment entry based on the parameters passed. 
 */
 CREATE OR REPLACE FUNCTION create_payment(customer_email varchar(100),
                                             customer_first_name varchar(100),
